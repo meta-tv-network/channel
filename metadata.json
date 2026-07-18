@@ -1,0 +1,6 @@
+{
+  "name": "Meta-tv-channel",
+  "description": "Multi-tenant IPTV SaaS platform where anyone can build their own digital TV channel with live scheduling, embedding, and vertical video capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
